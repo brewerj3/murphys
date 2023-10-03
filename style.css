@@ -1,0 +1,27 @@
+body {
+  background-image: url("http://courses.ics.hawaii.edu/ics314f22/morea/ui-frameworks/murphys-new-background.jpeg");
+  background-repeat: no-repeat;
+  background-position-x: center;
+}
+.navbar {
+  background-color: #004030;
+  color: white;
+}
+.navbar-brand {
+  color: white;
+}
+
+.spaceHolder {
+  height: 250px;
+}
+
+.spaceHolder2 {
+  height: 500px;
+}
+
+footer {
+  color: white;
+  background-color: #004030;
+  width: 100%;
+  bottom: 0;
+}
